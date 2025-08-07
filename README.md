@@ -38,7 +38,7 @@
 
 ### 📫 Contato
 - ✉️ Me chama via [Discord](https://discord.com/users/icaropjl) ou abre uma issue/pull request nos meus repositórios!
-- 💼 [LinkedIn](https://www.linkedin.com/in/icaro-fernandes-b64300252) _(adicione o link se tiver)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/icaro-fernandes-b64300252)
 
 ---
 
