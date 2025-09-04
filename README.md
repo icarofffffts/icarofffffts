@@ -1,10 +1,10 @@
-
 <h1 align="center">👋 Olá! Eu sou o Ícaro Silva</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6600?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 <p align="center">
@@ -15,7 +15,8 @@
 ---
 
 🎯 Desenvolvedor focado em bots para Discord usando **Node.js**, **JavaScript** e **TypeScript**.  
-💻 Também crio sites e aplicações web sob medida, com foco em performance, acessibilidade e usabilidade.
+💻 Crio sites e aplicações web sob medida, com foco em performance, acessibilidade e usabilidade.  
+🔗 Experiência em automações inteligentes via **n8n**, integrando APIs, bancos de dados e sistemas web.
 
 ### 🚀 Tecnologias e Ferramentas
 - ⚙️ **Node.js**, **JavaScript** (ES6+), **TypeScript**
@@ -24,6 +25,7 @@
 - 🛠️ **MongoDB**, **MySQL**, **Firebase**, **SQLite**
 - ☁️ Deploy com **Railway**, **Render**, **Vercel** ou **servidores próprios**
 - 🔐 Sistemas com autenticação, dashboards, painéis de administração
+- 🤖 **n8n** para automações e integrações entre plataformas
 
 ### 📌 Alguns projetos em destaque:
 - 🧠 **Bot de moderação inteligente** com comandos automáticos, logging e painel web
@@ -31,6 +33,7 @@
 - 🧾 **Geradores automáticos de comandos e sistemas personalizados**
 - 🛒 **Sistemas de economia com lojinhas, inventários e integração com APIs**
 - 📊 **Dashboards administrativos para bots com login via OAuth2**
+- 🛍️ **[Site Vendas](https://github.com/icarofffffts/site-vendas)**: Carrossel animado de produtos, menu fixo, botão "Saiba mais" estilizado e layout responsivo. Adicionado recentemente ao meu portfólio!
 
 ### 🌱 Atualmente aprendendo:
 - NestJS, Prisma, automações com Docker, sistemas mais escaláveis
@@ -41,4 +44,4 @@
 
 ---
 
-> ⚡ Sempre buscando aprender mais e criar soluções reais com código limpo e organizado.
+> ⚡ Sempre buscando aprender mais e criar soluções reais com código
