@@ -36,7 +36,7 @@
 - 🛍️ **[Site Vendas](https://github.com/icarofffffts/site-vendas)**: Carrossel animado de produtos, menu fixo, botão "Saiba mais" estilizado e layout responsivo. Adicionado recentemente ao meu portfólio!
 
 ### 🌱 Atualmente aprendendo:
-- NestJS, Prisma, automações com Docker, sistemas mais escaláveis
+- Gestao de Agentes de AI, Sistema Sankhya ERP
 
 ### 📫 Contato
 - ✉️ Me chama via [Discord](https://discord.com/users/icaropjl) ou abre uma issue/pull request nos meus repositórios!
