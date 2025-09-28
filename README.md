@@ -14,16 +14,16 @@
 
 ---
 
-🎯 Desenvolvedor focado em bots para Discord usando **Node.js**, **JavaScript** e **TypeScript**.  
+🎯 Desenvolvedor focado em bots para Discord usando **Node.js**, **JavaScript**.  
 💻 Crio sites e aplicações web sob medida, com foco em performance, acessibilidade e usabilidade.  
 🔗 Experiência em automações inteligentes via **n8n**, integrando APIs, bancos de dados e sistemas web.
 
 ### 🚀 Tecnologias e Ferramentas
-- ⚙️ **Node.js**, **JavaScript** (ES6+), **TypeScript**
+- ⚙️ **Node.js**, **JavaScript**
 - 🤖 **Discord.js** (v14+), sistemas avançados de moderação, economia, tickets, painéis e muito mais
-- 🌐 **HTML**, **CSS**, **Tailwind**, **React**, **EJS**, **Next.js**
-- 🛠️ **MongoDB**, **MySQL**, **Firebase**, **SQLite**
-- ☁️ Deploy com **Railway**, **Render**, **Vercel** ou **servidores próprios**
+- 🌐 **HTML**, **CSS**,**React**
+- 🛠️ **MongoDB**, **Firebase**
+- ☁️ Deploy com **servidores próprios**
 - 🔐 Sistemas com autenticação, dashboards, painéis de administração
 - 🤖 **n8n** para automações e integrações entre plataformas
 
