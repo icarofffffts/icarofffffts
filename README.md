@@ -28,6 +28,7 @@ Desenvolvedor apaixonado por **automação e inteligência artificial**. Com foc
 ### 🌟 Projetos em Destaque
 
 - **🛍️ [aurora-kids-store](https://github.com/icarofffffts/aurorakids-store)**: Sistema completo de e-commerce infantil com gestão modular, Supabase e automações n8n integradas. 
+- **📊 [DataDash](https://github.com/icarofffffts/DataDash)**: Dashboard analítico que transforma CSVs em insights visuais usando Google Gemini AI.
 - **🤖 [n8n-nodes-zapi-icarodev](https://github.com/icarofffffts/n8n-nodes-zapi-icarodev)**: Node customizado desenvolvido em TypeScript para integração profissional de WhatsApp (Z-API) via n8n.
 - **💻 [site-Vendas](https://github.com/icarofffffts/site-Vendas)**: Landing page moderna com foco em conversão e experiência do usuário (UX).
 
