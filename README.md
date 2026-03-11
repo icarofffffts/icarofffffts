@@ -27,7 +27,7 @@ Desenvolvedor apaixonado por **automação e inteligência artificial**. Com foc
 
 ### 🌟 Projetos em Destaque
 
-- **🛍️ [delu-kids-store](https://github.com/icarofffffts/delu-kids-store)**: Sistema completo de e-commerce infantil com gestão modular, Supabase e automações n8n integradas. 
+- **🛍️ [aurora-kids-store](https://github.com/icarofffffts/aurorakids-store)**: Sistema completo de e-commerce infantil com gestão modular, Supabase e automações n8n integradas. 
 - **🤖 [n8n-nodes-zapi-icarodev](https://github.com/icarofffffts/n8n-nodes-zapi-icarodev)**: Node customizado desenvolvido em TypeScript para integração profissional de WhatsApp (Z-API) via n8n.
 - **💻 [site-Vendas](https://github.com/icarofffffts/site-Vendas)**: Landing page moderna com foco em conversão e experiência do usuário (UX).
 
@@ -42,7 +42,7 @@ Desenvolvedor apaixonado por **automação e inteligência artificial**. Com foc
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarosilva-ia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icaro-silva-b64300252)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/icaropjl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__icarofernandes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijv00777@gmail.com)
