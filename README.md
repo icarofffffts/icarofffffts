@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor apaixonado por **automação e inteligência artificial**. Com foco no ecossistema **Node.js**, construo soluções que conectam APIs, otimizam fluxos de trabalho e criam assistentes inteligentes escaláveis. Atualmente lidero a **Arx Devs**, onde desenvolvemos bots e sistemas sob medida para otimização de processos.
+Desenvolvedor apaixonado por **automação e inteligência artificial**. Com foco no ecossistema **N8N** e afins, construo soluções que conectam APIs, otimizam fluxos de trabalho e criam assistentes inteligentes escaláveis. Atualmente lidero a **Arx Devs**, onde desenvolvemos bots e sistemas sob medida para otimização de processos.
 
 - 🎯 **Foco atual:** Agentes de IA e Integrações Avançadas com n8n.
 - 💼 **Experiência:** Founder na Arx Devs & Assistente de Sistemas na Super Foods.
