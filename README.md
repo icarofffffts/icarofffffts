@@ -1,4 +1,4 @@
-# 🚀 Ícaro Fernandes | Icaro Dev
+# 🚀 Ícaro Silva | Icaro Dev
 
 ### AI & Automation Developer | Founder @ Arx Devs
 "Transformando processos repetitivos em tempo livre através de automações inteligentes e Agentes de IA."
