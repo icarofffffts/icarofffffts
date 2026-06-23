@@ -20,7 +20,7 @@ Desenvolvedor apaixonado por **automação e inteligência artificial**. Com foc
 | :--- | :--- |
 | **Linguagens** | TypeScript, JavaScript, Node.js, Python |
 | **Automação & AI** | n8n, LangChain, Discord.js, AI Agents |
-| **Frontend** | HTML5, CSS3, React, Layouts Responsivos |
+| **Frontend** | React |
 | **DevOps & DB** | Docker, Git, SQL, Postman |
 
 ---
